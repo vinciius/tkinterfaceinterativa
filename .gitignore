@@ -1,0 +1,37 @@
+# Arquivos específicos do projeto
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*~
+
+# Logs e bancos de dados
+*.log
+*.sqlite
+*.db
+
+# Diretórios de build
+build/
+dist/
+*.egg-info/
+
+# Arquivos do Windows
+desktop.ini
+ehthumbs.db
