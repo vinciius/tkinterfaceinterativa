@@ -49,11 +49,3 @@ Este projeto foi desenvolvido para demonstrar conceitos básicos de:
 ## Curso Senac Tech
 
 Este projeto faz parte do curso de aprendizagem Python no Senac Tech, onde os alunos aprendem desde conceitos básicos de programação até o desenvolvimento de aplicações com interface gráfica.
-
-## Como Contribuir
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/NovaFeature`)
-3. Faça commit das suas alterações (`git commit -m 'Adicionando nova feature'`)
-4. Faça push para a branch (`git push origin feature/NovaFeature`)
-5. Abra um Pull Request
